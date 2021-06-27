@@ -2,5 +2,52 @@
 
 body {
     font-family: 'Lora', serif;
+    font-size: 18px;
+    color: #000000;
+    background-image: url("assets/background.svg");
+    margin-left: auto;
+    margin-right: auto;
+    width: 640px;
+    color: #ffffff;
 }
+
+header {
+    background-color: #ffffff;
+}
+
+nav {
+    background-color: #f05d5d; 
+    font-size: 16px;
+    padding: 12px;
+}
+
+.mobile-body {
+    background-color: #5000ff;
+}
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 10px;
+}
+nav a:hover {
+    color: #5000ff;
+}
+
+.store-image {
+    width: 640px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
